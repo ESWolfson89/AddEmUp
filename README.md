@@ -1,9 +1,9 @@
 "AddEmUp"
 
-By Eric Wolfson
+Copyright Eric Wolfson 2016
 
 About:
-WFA application written in C# by Eric Wolfson 2016
+WFA application written in C#
 
 ![Alt text](/demo/screenshot.jpg?raw=true "Screenshot")
 
